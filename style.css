@@ -1,4 +1,5 @@
 @import url('htts://fonts.googleapis.com/css?family=Poppins:200,300,400,500,600,700,800,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:wght@900&display=swap');
 *
 {
     margin: 0;
@@ -31,6 +32,7 @@
     position: relative;
     max-width: 750px;
     text-align: center;
+    font-family: 'Titillium Web', sans-serif;
 }
 .banner .content h2{
     color: #fff;
@@ -73,6 +75,7 @@
     width: 100%;
     display: flex;
     background: #12222d;
+    font-family: 'Titillium Web', sans-serif;
 }
 .about .contactBx{
     background:#12222d;
@@ -175,6 +178,7 @@
     padding:100px;
     background: #12222d;
     text-align: center;
+    
 }    
 .testimonials .container{
     display: flex;
@@ -205,6 +209,7 @@
     padding:100px;
     background: #162c3b;
     text-align: center ;
+    font-family: 'Titillium Web', sans-serif;
 }
 .imgBx2{
     background: url(1.gif);
